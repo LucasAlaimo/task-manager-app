@@ -1,4 +1,3 @@
-# task-manager-app
 # ✅ task-manager-app
 
 A simple and practical task management web application built to organize daily tasks, track their status, and improve productivity.
